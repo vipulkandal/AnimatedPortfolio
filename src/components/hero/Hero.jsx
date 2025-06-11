@@ -97,7 +97,7 @@ const Hero = () => {
             </motion.button>
             <motion.button variants={textVariants}>
               <a
-                href="/Vipul Kandal-FullStack-6Years.pdf"
+                href="/Vipul Kandal-FullStack.pdf"
                 target="_blank"
                 rel="noreferrer"
               >
